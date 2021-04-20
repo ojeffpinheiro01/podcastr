@@ -1,5 +1,7 @@
+import { Header } from "../components/Header";
+
 export default function Home() {
   return (
-    <h1>Heloooo Word</h1>
+    <Header />
   )
 }
