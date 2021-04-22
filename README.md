@@ -36,6 +36,10 @@ This project was developed with the following technologies:
 - [ReactJS](https://pt-br.reactjs.org)
 - [Typescript](typescriptlang.org/)
 - [NextJS](https://nextjs.org)
+- [Sass](https://sass-lang.com)
+- [Axios](https://github.com/axios/axios)
+- [date-fns](https://date-fns.org)
+- [json-server](https://github.com/typicode/json-server)
 
 ---
 
