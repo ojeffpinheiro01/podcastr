@@ -30,7 +30,7 @@
 # :book: Sobre o projeto 
 Podcastr é uma plataforma construída para a transmissão de podcast
 Está sendo desenvolvido durante o Next Level Week # 5 - ReactJs Trail - oferecido por Rocketseat
- <h4 align="center">:construction: Em desenvolvimento da versão 2.0 :construction:</h4>
+ <h4 align="center">:construction: Em desenvolvimento :construction:</h4>
  
 ---
 
@@ -39,6 +39,10 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [ReactJS](https://pt-br.reactjs.org)
 - [Typescript](typescriptlang.org/)
 - [NextJS](https://nextjs.org)
+- [Sass](https://sass-lang.com)
+- [Axios](https://github.com/axios/axios)
+- [date-fns](https://date-fns.org)
+- [json-server](https://github.com/typicode/json-server)
 
 ---
 
