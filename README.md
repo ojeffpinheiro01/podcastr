@@ -119,5 +119,5 @@ $ npm run dev
 
 ---
 
->This project was developed with ❤️ by **[Jéferson Pinheiro](https://www.linkedin.com/in/jeferson-pinheiro/)**,  with the instructor **[Diego Fernandes](https://www.linkedin.com/in/diego-schell-fernandes/)** during the **[Next Level Week #4 - Trilha ReactJS](https://nextlevelweek.com/episodios/react/1/edicao/5)** of **[Rocketseat](https://rocketseat.com.br)** 💜<br> 
+>This project was developed with ❤️ by **[Jéferson Pinheiro](https://www.linkedin.com/in/jeferson-pinheiro/)**,  with the instructor **[Diego Fernandes](https://www.linkedin.com/in/diego-schell-fernandes/)** during the **[Next Level Week #5 - Trilha ReactJS](https://nextlevelweek.com/episodios/react/1/edicao/5)** of **[Rocketseat](https://rocketseat.com.br)** 💜<br> 
 If it helped you, give it ⭐, it will help me too 😉
