@@ -118,7 +118,7 @@
       }
 
       &:hover:not(:disabled) {
-        filter: brightness(0.95);
+        filter: brightness(0.7);
       }
 
       &.playButton {
@@ -132,6 +132,10 @@
         -moz-border-radius: 1rem;
         -ms-border-radius: 1rem;
         -o-border-radius: 1rem;
+
+        &:hover:not(:disabled) {
+          filter: brightness(0.95);
+        }
       }
     }
   }
